@@ -1,2 +1,2 @@
-# Drink Machine Logci using Java
+# Drink Machine Logic using Java
 repository for final exam
